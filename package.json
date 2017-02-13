@@ -1,6 +1,6 @@
 {
   "name": "tell-me-where",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Locate with sentences",
   "main": "index.js",
   "scripts": {
