@@ -1,0 +1,16 @@
+{
+  "name": "tell-me-where",
+  "version": "1.0.0",
+  "description": "Locate with sentences",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --reporter spec"
+  },
+  "author": "Olivier Thomas <olivier.thomas.carto@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
